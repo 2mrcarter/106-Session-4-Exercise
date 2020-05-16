@@ -1,0 +1,26 @@
+.item{
+    display: inline-block;
+    border:1px solid rgb(185,185,185);
+    width: 13rem;
+    height: 12rem;
+    margin: 15px;
+    padding: 30px;
+}
+
+.item img{
+    width: 250px;
+    height: 200px;
+    margin: 5px;
+}
+
+.itemPrice{
+    font-weight: 400px;
+    font-size: 2rem;
+    color: rgb(160,30,30);
+}
+
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    color: blue;
+}

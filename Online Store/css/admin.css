@@ -1,0 +1,19 @@
+.hidden{
+    display: none;
+}
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    color: blue;
+}
+
+.container{
+    border-style: solid;
+    border-width: medium;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+#btn-register{
+    margin-bottom: 10px;
+    background-color:green;
+}
